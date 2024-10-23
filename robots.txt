@@ -1,0 +1,7 @@
+# This file created by JustStudio.
+# © 2024 JustStudio. <https://juststudio.is-a.dev>
+#
+# Last Updated: (MM/DD/YYYY) 09/27/2024
+
+User-agent: *
+Disallow: /
